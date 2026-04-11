@@ -28,15 +28,10 @@ Metric 3. Privacy Compliance Violation Count, tracked through quarterly independ
 
 1.C.3.3 OKR 3 Ethical Impact(s)/Issue(s)
 The central ethical risk is ClearConsent compromising consent adpotion targets. This might lead the company to similar legal battles where consent screens are designed to be "intentionally vague" because transparency "could sound alarming to users." For example, a developer could shrink or using UX tricks to hide the opt out button  on consent screens.
-Expected Ethical Impact Risk Table
 
-| Stakeholder          | Financial Risk | Privacy Risk | Conflicting Interest | Violation of Rights |
+Ethical Impact Risk Table
 
-| App Devs             | mid            | low          | mid                  | low                 |
-| End User             | low            | high         | low                  | high                |
-| ClearConsent         | high           | low          | high                 | mid                 |
-| Regulatory Entities  | none           | none         | mid                  | none                |
-| Advertisers          | mid            | low          | high                 | low                 |
+![alt text](<Screenshot 2026-04-11 at 3.33.42 PM-1.png>)
 
 Analysis of Ethical Impact Risk:
 App Developers face mid financial risk from compliance costs, with low privacy risk since they process rather than generate data. Their mid conflicting interest arises from balancing useful analytics with respecting opt outs. End Users face high privacy and rights violation risks as data generators. ClearConsent Analytics faces high financial risk as revenue depends on developer adoption that could pressure ethical compromises. Its high conflicting interest reflects tension in upholding its privacy first mission. Regulatory Bodies face no financial or privacy risk as enforcement entities. Advertisers face mid financial risk from reduced targeting data under strict consent rules and high conflicting interest from their desire to maximize data for revenue.
