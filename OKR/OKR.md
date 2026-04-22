@@ -34,7 +34,7 @@ The central ethical risk is ClearConsent compromising consent adpotion targets. 
 
 Ethical Impact Risk Table
 
-![alt text](<Screenshot 2026-04-11 at 3.33.42 PM-1.png>)
+![alt text](image.png)
 
 Analysis of Ethical Impact Risk:
 
